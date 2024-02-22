@@ -1,26 +1,3 @@
--- CREATE cidade_dados
-/*
-CREATE TABLE cidade_dados (
-    id SERIAL PRIMARY KEY,
-    source TEXT,
-    measurement_unit_name TEXT,
-    valid_from DATE,
-    cognomen TEXT,
-    city_name TEXT,
-    variable_id INT,
-    city_id INT,
-    is_basic TEXT,
-    institute_id INT,
-    period TEXT,
-    exp_source TEXT,
-    value TEXT,
-    name TEXT,
-    observations TEXT,
-    updated_at TIMESTAMP,
-    type TEXT,
-    user_id INT
-);
-*/
 
 -- CREATE dados_cidade
 /*
